@@ -1,6 +1,6 @@
 # notEfy Web App
 
-notEfy is a simple web application that allows you to manage your notes effortlessly. With notEfy, you can add, open, and delete notes with ease. Additionally, it leverages Framer Motion for React to incorporate delightful animations, including draggable logos and draggable notes.
+notEfy is a simple React Web Application that allows you to manage your notes effortlessly. With notEfy, you can add, open, and delete notes with ease. Additionally, it leverages Framer Motion for React to incorporate delightful animations, including draggable logos and draggable notes.
 
 ## Features
 
@@ -21,7 +21,7 @@ To run the notEfy web app locally on your machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/notEfy.git
+   git clone https://github.com/Romildoescoding/notEfy.git
    ```
 
 2. Navigate to the project directory:
@@ -50,12 +50,12 @@ To run the notEfy web app locally on your machine, follow these steps:
 
    - Click on the "Add Note" button.
    - Enter your note content in the provided input field.
-   - Press Enter or click the "Save" button to add the note.
+   - Press Enter or click the "Add note" button to add the note.
 
 2. **Opening a Note**:
 
    - Click on the desired note to open it.
-   - View or edit the note content as needed.
+   - View the note content as needed.
 
 3. **Deleting a Note**:
    - Hover over the note you want to delete.
@@ -63,7 +63,7 @@ To run the notEfy web app locally on your machine, follow these steps:
 
 ## Credits
 
-- The notEfy app is created and maintained by [Your Name].
+- The notEfy app is created and maintained by Romil.
 - Special thanks to the creators of Framer Motion for React for providing an excellent animation library.
 
 ## License
